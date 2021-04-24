@@ -1,0 +1,40 @@
+.container{
+    margin-top: 50px;
+    background-color: rgb(52, 133, 86);
+    height:75px;
+    width: 900px;
+    margin-left: 100px;
+    padding-left: 35px;
+    padding-top: 1px;
+    
+}
+.right{
+  position: absolute;
+  right: 220px;
+  top: 70px;
+  color: white;
+  height: 1rem;
+  font-size: 3.75em;
+  
+}
+.font{
+    background-color:rgb(107, 180, 107);
+    height: 40PX;
+    width: 827px;
+    font-size: 20PX;
+    color: white;
+    margin-top: 20px;
+    
+}
+i{
+    padding: 10px;
+    
+}
+.SEARCH{
+    background-color:rgb(11, 95, 11);
+    padding: 9.2px;
+    
+
+
+}
+
