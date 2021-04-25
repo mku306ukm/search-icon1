@@ -4,19 +4,22 @@
     height:75px;
     width: 900px;
     margin-left: 100px;
-    padding-left: 35px;
+    padding-left: 25px;
     padding-top: 1px;
     
+    
+    
 }
-.right{
-  position: absolute;
-  right: 220px;
-  top: 70px;
-  color: white;
-  height: 1rem;
-  font-size: 3.75em;
-  
+
+
+.fa-user-circle-o{
+    float: right;
+    color: white;
+    margin-right: 15px;
+    
 }
+
+
 .font{
     background-color:rgb(107, 180, 107);
     height: 40PX;
@@ -28,6 +31,7 @@
 }
 i{
     padding: 10px;
+    
     
 }
 .SEARCH{
