@@ -5,30 +5,42 @@
     width: 900px;
     margin-left: 100px;
     padding-left: 25px;
-    padding-top: 1px;
-    
-    
-    
+    padding-top: 1px;   
+    color: white;
+}
+.input{
+    width: 550px;
+    height: 20px;
+  background: green;
+    color: white;
+    border: green;
+    margin-bottom: 5px;
+    padding-bottom: 0px;
+
 }
 
+
+.row{
+    height: 40PX;
+    width: 827px;
+    background: green;
+    position: relative;
+     top: 20px;
+     color: white;
+     
+}
 
 .fa-user-circle-o{
     float: right;
     color: white;
     margin-right: 15px;
-    
-}
-
-
-.font{
-    background-color:rgb(107, 180, 107);
-    height: 40PX;
-    width: 827px;
-    font-size: 20PX;
-    color: white;
     margin-top: 20px;
     
+    
 }
+
+
+
 i{
     padding: 10px;
     
@@ -36,9 +48,15 @@ i{
 }
 .SEARCH{
     background-color:rgb(11, 95, 11);
-    padding: 9.2px;
-    
-
-
+    font-size: 15px;
+    text-align: center;
+    padding-top: 10px;
+    height: 30px;
+    width: 80px;
+    display: inline-block;
+    margin-left: 150px;
+    position: relative;
+    bottom: 0px;
+   
 }
 
